@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/VedantSati/ReactDemoApp.git/static/css/main.0dc68f0d.chunk.css",
-    "main.js": "/VedantSati/ReactDemoApp.git/static/js/main.84d63352.chunk.js",
-    "main.js.map": "/VedantSati/ReactDemoApp.git/static/js/main.84d63352.chunk.js.map",
-    "runtime-main.js": "/VedantSati/ReactDemoApp.git/static/js/runtime-main.893d1ff1.js",
-    "runtime-main.js.map": "/VedantSati/ReactDemoApp.git/static/js/runtime-main.893d1ff1.js.map",
-    "static/css/2.f83b9687.chunk.css": "/VedantSati/ReactDemoApp.git/static/css/2.f83b9687.chunk.css",
-    "static/js/2.bbeac7b5.chunk.js": "/VedantSati/ReactDemoApp.git/static/js/2.bbeac7b5.chunk.js",
-    "static/js/2.bbeac7b5.chunk.js.map": "/VedantSati/ReactDemoApp.git/static/js/2.bbeac7b5.chunk.js.map",
-    "index.html": "/VedantSati/ReactDemoApp.git/index.html",
-    "static/css/2.f83b9687.chunk.css.map": "/VedantSati/ReactDemoApp.git/static/css/2.f83b9687.chunk.css.map",
-    "static/css/main.0dc68f0d.chunk.css.map": "/VedantSati/ReactDemoApp.git/static/css/main.0dc68f0d.chunk.css.map",
-    "static/js/2.bbeac7b5.chunk.js.LICENSE.txt": "/VedantSati/ReactDemoApp.git/static/js/2.bbeac7b5.chunk.js.LICENSE.txt"
+    "main.css": "/ReactDemoApp/static/css/main.0dc68f0d.chunk.css",
+    "main.js": "/ReactDemoApp/static/js/main.84d63352.chunk.js",
+    "main.js.map": "/ReactDemoApp/static/js/main.84d63352.chunk.js.map",
+    "runtime-main.js": "/ReactDemoApp/static/js/runtime-main.94e3aa20.js",
+    "runtime-main.js.map": "/ReactDemoApp/static/js/runtime-main.94e3aa20.js.map",
+    "static/css/2.f83b9687.chunk.css": "/ReactDemoApp/static/css/2.f83b9687.chunk.css",
+    "static/js/2.bbeac7b5.chunk.js": "/ReactDemoApp/static/js/2.bbeac7b5.chunk.js",
+    "static/js/2.bbeac7b5.chunk.js.map": "/ReactDemoApp/static/js/2.bbeac7b5.chunk.js.map",
+    "index.html": "/ReactDemoApp/index.html",
+    "static/css/2.f83b9687.chunk.css.map": "/ReactDemoApp/static/css/2.f83b9687.chunk.css.map",
+    "static/css/main.0dc68f0d.chunk.css.map": "/ReactDemoApp/static/css/main.0dc68f0d.chunk.css.map",
+    "static/js/2.bbeac7b5.chunk.js.LICENSE.txt": "/ReactDemoApp/static/js/2.bbeac7b5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.893d1ff1.js",
+    "static/js/runtime-main.94e3aa20.js",
     "static/css/2.f83b9687.chunk.css",
     "static/js/2.bbeac7b5.chunk.js",
     "static/css/main.0dc68f0d.chunk.css",
